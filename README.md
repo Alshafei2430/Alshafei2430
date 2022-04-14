@@ -6,9 +6,6 @@ I'm Abdulrahman from Egypt, and I do Web Development and Machine Learning. I rea
 ## Skills and Experience
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,flask,python,java,mongo,postgres,docker,firebase,heroku,tensorflow,git,github,vscode&perline=7)](https://skillicons.dev)
 
-
-Skills: REACT / JS / HTML / CSS / TailwindCSS / NodeJS / Express / Flask / Python / Java / MongoDB / Postgres / Docker /   Firebase / Heroku / Tensorflow / Sklearn / 
-
 - 🌱 I’m currently learning Machine Learning 
 - 📫 How to reach me: alshafei.2430@gmail.com 
 
